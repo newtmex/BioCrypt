@@ -53,3 +53,11 @@ log(`Each participant gets: ${airDrA} (excluding bonus based on ddss)`)
 log(`Total to distribute: ${airDrA * tW} (excluding bonus based on ddss)`)
 
 log(`Total remaining for bonuses: ${airDrT - (airDrA * tW)}`)
+
+// Break down of what each group will receive
+var totalDistributed = 0
+groups.forEach((ratio,index)=>{
+  let eachAirDrA = airDrA * ratio;
+  let totalAirDrA = eachAirDrA * userPerGrp[index]
+  log(`Group ${index+1} will receive: ${eachAirDrA} each, hence total reserved for this group is: ${totalAirDrA} `)
+})
