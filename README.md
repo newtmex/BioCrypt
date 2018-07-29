@@ -1,4 +1,4 @@
-You need Node.js installed in your machine to use this script
+You need Node.js installed on your machine to use this script
 
 cd to/the/folder/where/round1.js is
 
