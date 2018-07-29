@@ -5,7 +5,7 @@ function random(start,end){//Returns a random number from start to end, both inc
 
 // Set the minimum and maximum percentage to chose randomly from for each of the groups
 const minP = 4.4
-const maxP = 9.09
+const maxP = 9.09 // Maximum percentage should not be > 100/11
 const rand = random.bind(null,minP,maxP)
 
 const airDrT = 71428571;
@@ -52,12 +52,15 @@ log(`Each participant gets: ${airDrA} (excluding bonus based on ddss)`)
 
 log(`Total to distribute: ${airDrA * tW} (excluding bonus based on ddss)`)
 
-log(`Total remaining for bonuses: ${airDrT - (airDrA * tW)}`)
+log(`Total remaining for bonuses: ${airDrT - (airDrA * tW)}\n`)
 
 // Break down of what each group will receive
 var totalDistributed = 0
 groups.forEach((ratio,index)=>{
   let eachAirDrA = airDrA * ratio;
   let totalAirDrA = eachAirDrA * userPerGrp[index]
-  log(`Group ${index+1} will receive: ${eachAirDrA} each, hence total reserved for this group is: ${totalAirDrA} `)
+  log(`Group ${index+1} will receive: ${eachAirDrA} each, hence total reserved for this group is: ${totalAirDrA} `);
+  totalDistributed += totalAirDrA
 })
+log(`Total distributed: ${totalDistributed} `);
+
