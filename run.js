@@ -2,15 +2,16 @@ require('./lib/Array.mod');
 const log = require('./lib/funcs').log;
 const random = require('./lib/funcs').random;
 // Set the minimum and maximum percentage to chose randomly from for each of the groups
-var minP = 5.7;
-var maxP = 91;// Maximum percentage should not be > 100/11
+global.minP = 5.7;
+global.maxP = 91;// Maximum percentage should not be > 100/11
 var rand = random.bind(null,minP,maxP);
 
 const airDrT = 71428571;
-
+global.maXtW = 47795;
+global.miNtW = 10000;
 function run(verbose){
   
-  var tW = random(10000,47795); // total wallets or participants, put any number you feel will be the total amount of registerd participants
+  var tW = random(miNtW,maXtW); // total wallets or participants, put any number you feel will be the total amount of registerd participants
   var tDDSS = 46780356295;
   var airDrA;
   var groups = [];
@@ -87,8 +88,9 @@ function run(verbose){
 }
 
 run.set = function(obj){
-  minP = obj.minP;
-  maxP = obj.maxP;
+  for(let prop in obj){
+    global[prop] = obj[prop]
+  }
   rand = random.bind(null,minP,maxP);
 }
 

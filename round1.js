@@ -6,9 +6,11 @@ const run = require('./run');
 run.set({
   minP: 7,
   maxP: 9.8,
+  //maXtW: 72,
+  //miNtW: 65
 })
 
-var limit = 1116;
+var limit = 6;
 var verbose = false;
 
 if(!verbose){
