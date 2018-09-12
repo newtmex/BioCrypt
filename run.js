@@ -9,9 +9,10 @@ var rand = random.bind(null,minP,maxP);
 const airDrT = 71428571;
 global.maXtW = 47795;
 global.miNtW = 10000;
+global.tW = random(miNtW,maXtW); // total wallets or participants, put any number you feel will be the total amount of registerd participants
+
 function run(verbose){
   
-  var tW = random(miNtW,maXtW); // total wallets or participants, put any number you feel will be the total amount of registerd participants
   var tDDSS = 46780356295;
   var airDrA;
   var groups = [];
@@ -77,7 +78,7 @@ function run(verbose){
     groups.forEach((ratio,index)=>{
       let eachAirDrA = airDrA * ratio;
       let totalAirDrA = eachAirDrA * userPerGrp[index]
-        log(`Group ${11-index} will receive: ${eachAirDrA} each, hence total reserved for this group is: ${totalAirDrA}.
+        log(`Group ${(10-index)*10}% will receive: ${eachAirDrA} each, hence total reserved for this group is: ${totalAirDrA}.
         This group has ${userPerGrp[index]} participants`);
       totalDistributed += totalAirDrA;
       totalParticipants += userPerGrp[index];
