@@ -1,0 +1,585 @@
+
+
+
+Total registered 12000
+
+!! 12 0
+Each participant gets: 3936.7598655202823 (excluding bonus based on ddss)
+Total to distribute: 47241118.38624339 (excluding bonus based on ddss)
+Total remaining for bonuses: 24187452.613756612
+
+Group 11 will receive: 7873.519731040565 each, hence total reserved for this group is: 11337868.412698412.
+        This group has 1440 participants
+Group 10 will receive: 7479.843744488536 each, hence total reserved for this group is: 7180649.994708994.
+        This group has 960 participants
+Group 9 will receive: 7086.167757936509 each, hence total reserved for this group is: 8503401.30952381.
+        This group has 1200 participants
+Group 8 will receive: 6692.49177138448 each, hence total reserved for this group is: 7227891.113095238.
+        This group has 1080 participants
+Group 7 will receive: 6298.815784832452 each, hence total reserved for this group is: 6046863.153439154.
+        This group has 960 participants
+Group 6 will receive: 5905.139798280424 each, hence total reserved for this group is: 4960317.430555556.
+        This group has 840 participants
+Group 5 will receive: 5511.463811728395 each, hence total reserved for this group is: 5952380.916666666.
+        This group has 1080 participants
+Group 4 will receive: 5117.787825176367 each, hence total reserved for this group is: 6141345.39021164.
+        This group has 1200 participants
+Group 3 will receive: 4724.111838624339 each, hence total reserved for this group is: 5102040.785714286.
+        This group has 1080 participants
+Group 2 will receive: 4330.435852072311 each, hence total reserved for this group is: 5196523.022486773.
+        This group has 1200 participants
+Group 1 will receive: 3936.7598655202823 each, hence total reserved for this group is: 3779289.470899471.
+        This group has 960 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 18 0
+Each participant gets: 4043.7370357789855 (excluding bonus based on ddss)
+Total to distribute: 48524844.42934783 (excluding bonus based on ddss)
+Total remaining for bonuses: 22903726.570652172
+
+Group 11 will receive: 8087.474071557971 each, hence total reserved for this group is: 7763975.108695652.
+        This group has 960 participants
+Group 10 will receive: 7683.100367980072 each, hence total reserved for this group is: 6453804.309103261.
+        This group has 840 participants
+Group 9 will receive: 7278.726664402174 each, hence total reserved for this group is: 7861024.797554348.
+        This group has 1080 participants
+Group 8 will receive: 6874.352960824275 each, hence total reserved for this group is: 6599378.842391305.
+        This group has 960 participants
+Group 7 will receive: 6469.9792572463775 each, hence total reserved for this group is: 5434782.576086957.
+        This group has 840 participants
+Group 6 will receive: 6065.605553668478 each, hence total reserved for this group is: 5822981.331521739.
+        This group has 960 participants
+Group 5 will receive: 5661.231850090579 each, hence total reserved for this group is: 6114130.398097826.
+        This group has 1080 participants
+Group 4 will receive: 5256.858146512682 each, hence total reserved for this group is: 11354813.596467393.
+        This group has 2160 participants
+Group 3 will receive: 4852.484442934782 each, hence total reserved for this group is: 5822981.331521738.
+        This group has 1200 participants
+Group 2 will receive: 4448.110739356885 each, hence total reserved for this group is: 4803959.5985054355.
+        This group has 1080 participants
+Group 1 will receive: 4043.7370357789855 each, hence total reserved for this group is: 3396739.1100543477.
+        This group has 840 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 17 0
+Each participant gets: 3952.444167773351 (excluding bonus based on ddss)
+Total to distribute: 47429330.01328021 (excluding bonus based on ddss)
+Total remaining for bonuses: 23999240.986719787
+
+Group 11 will receive: 7904.888335546702 each, hence total reserved for this group is: 8537279.402390439.
+        This group has 1080 participants
+Group 10 will receive: 7509.643918769367 each, hence total reserved for this group is: 8110415.432270916.
+        This group has 1080 participants
+Group 9 will receive: 7114.399501992032 each, hence total reserved for this group is: 6829823.521912351.
+        This group has 960 participants
+Group 8 will receive: 6719.155085214697 each, hence total reserved for this group is: 5644090.271580345.
+        This group has 840 participants
+Group 7 will receive: 6323.910668437362 each, hence total reserved for this group is: 6829823.521912351.
+        This group has 1080 participants
+Group 6 will receive: 5928.666251660026 each, hence total reserved for this group is: 7114399.501992032.
+        This group has 1200 participants
+Group 5 will receive: 5533.421834882692 each, hence total reserved for this group is: 11288180.543160692.
+        This group has 2040 participants
+Group 4 will receive: 5138.177418105357 each, hence total reserved for this group is: 5549231.611553785.
+        This group has 1080 participants
+Group 3 will receive: 4742.933001328021 each, hence total reserved for this group is: 4553215.6812749.
+        This group has 960 participants
+Group 2 will receive: 4347.688584550687 each, hence total reserved for this group is: 3652058.411022577.
+        This group has 840 participants
+Group 1 will receive: 3952.444167773351 each, hence total reserved for this group is: 3320053.100929615.
+        This group has 840 participants
+
+Total distributed: 71428571.00000001 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 17 0
+Each participant gets: 4071.3959758321935 (excluding bonus based on ddss)
+Total to distribute: 48856751.70998632 (excluding bonus based on ddss)
+Total remaining for bonuses: 22571819.29001368
+
+Group 11 will receive: 8142.791951664387 each, hence total reserved for this group is: 8794215.307797538.
+        This group has 1080 participants
+Group 10 will receive: 7735.652354081168 each, hence total reserved for this group is: 8354504.542407661.
+        This group has 1080 participants
+Group 9 will receive: 7328.512756497948 each, hence total reserved for this group is: 6155950.715458277.
+        This group has 840 participants
+Group 8 will receive: 6921.373158914729 each, hence total reserved for this group is: 7475083.011627908.
+        This group has 1080 participants
+Group 7 will receive: 6514.23356133151 each, hence total reserved for this group is: 7035372.2462380305.
+        This group has 1080 participants
+Group 6 will receive: 6107.09396374829 each, hence total reserved for this group is: 5129958.929548563.
+        This group has 840 participants
+Group 5 will receive: 5699.9543661650705 each, hence total reserved for this group is: 6155950.715458276.
+        This group has 1080 participants
+Group 4 will receive: 5292.814768581851 each, hence total reserved for this group is: 5081102.177838577.
+        This group has 960 participants
+Group 3 will receive: 4885.675170998632 each, hence total reserved for this group is: 4103967.1436388507.
+        This group has 840 participants
+Group 2 will receive: 4478.535573415413 each, hence total reserved for this group is: 4836818.4192886455.
+        This group has 1080 participants
+Group 1 will receive: 4071.3959758321935 each, hence total reserved for this group is: 8305647.790697674.
+        This group has 2040 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 22 0
+Each participant gets: 4145.112058960074 (excluding bonus based on ddss)
+Total to distribute: 49741344.70752089 (excluding bonus based on ddss)
+Total remaining for bonuses: 21687226.292479113
+
+Group 11 will receive: 8290.224117920148 each, hence total reserved for this group is: 8953442.04735376.
+        This group has 1080 participants
+Group 10 will receive: 7875.712912024141 each, hence total reserved for this group is: 8505769.944986071.
+        This group has 1080 participants
+Group 9 will receive: 7461.201706128134 each, hence total reserved for this group is: 6267409.4331476325.
+        This group has 840 participants
+Group 8 will receive: 7046.6905002321255 each, hence total reserved for this group is: 5919220.020194985.
+        This group has 840 participants
+Group 7 will receive: 6632.179294336119 each, hence total reserved for this group is: 5571030.60724234.
+        This group has 840 participants
+Group 6 will receive: 6217.668088440111 each, hence total reserved for this group is: 5222841.194289694.
+        This group has 840 participants
+Group 5 will receive: 5803.156882544104 each, hence total reserved for this group is: 6267409.433147632.
+        This group has 1080 participants
+Group 4 will receive: 5388.645676648097 each, hence total reserved for this group is: 5173099.849582173.
+        This group has 960 participants
+Group 3 will receive: 4974.134470752088 each, hence total reserved for this group is: 4775169.091922005.
+        This group has 960 participants
+Group 2 will receive: 4559.623264856082 each, hence total reserved for this group is: 3830083.5424791086.
+        This group has 840 participants
+Group 1 will receive: 4145.112058960074 each, hence total reserved for this group is: 10943095.835654596.
+        This group has 2640 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 11 0
+Each participant gets: 3994.8865212527962 (excluding bonus based on ddss)
+Total to distribute: 47938638.25503355 (excluding bonus based on ddss)
+Total remaining for bonuses: 23489932.744966447
+
+Group 11 will receive: 7989.7730425055925 each, hence total reserved for this group is: 9587727.651006712.
+        This group has 1200 participants
+Group 10 will receive: 7590.284390380312 each, hence total reserved for this group is: 9108341.268456375.
+        This group has 1200 participants
+Group 9 will receive: 7190.795738255033 each, hence total reserved for this group is: 7766059.397315436.
+        This group has 1080 participants
+Group 8 will receive: 6791.307086129754 each, hence total reserved for this group is: 5704697.952348993.
+        This group has 840 participants
+Group 7 will receive: 6391.8184340044745 each, hence total reserved for this group is: 6903163.908724832.
+        This group has 1080 participants
+Group 6 will receive: 5992.329781879194 each, hence total reserved for this group is: 5033557.016778523.
+        This group has 840 participants
+Group 5 will receive: 5592.841129753914 each, hence total reserved for this group is: 6040268.420134228.
+        This group has 1080 participants
+Group 4 will receive: 5193.352477628635 each, hence total reserved for this group is: 4985618.378523489.
+        This group has 960 participants
+Group 3 will receive: 4793.863825503356 each, hence total reserved for this group is: 5752636.590604027.
+        This group has 1200 participants
+Group 2 will receive: 4394.375173378076 each, hence total reserved for this group is: 5273250.208053691.
+        This group has 1200 participants
+Group 1 will receive: 3994.8865212527962 each, hence total reserved for this group is: 5273250.208053691.
+        This group has 1320 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+
+
+
+Total registered 12000
+
+!! 13 0
+Each participant gets: 4051.995178125709 (excluding bonus based on ddss)
+Total to distribute: 48623942.13750851 (excluding bonus based on ddss)
+Total remaining for bonuses: 22804628.86249149
+
+Group 10% will receive: 8103.990356251418 each, hence total reserved for this group is: 6807351.899251191.
+        This group has 840 participants
+Group 9% will receive: 7698.790838438847 each, hence total reserved for this group is: 7390839.204901293.
+        This group has 960 participants
+Group 8% will receive: 7293.591320626277 each, hence total reserved for this group is: 8752309.584751531.
+        This group has 1200 participants
+Group 7% will receive: 6888.391802813705 each, hence total reserved for this group is: 7439463.147038802.
+        This group has 1080 participants
+Group 6% will receive: 6483.192285001135 each, hence total reserved for this group is: 7001847.667801226.
+        This group has 1080 participants
+Group 5% will receive: 6077.992767188563 each, hence total reserved for this group is: 5834873.056501021.
+        This group has 960 participants
+Group 4% will receive: 5672.793249375993 each, hence total reserved for this group is: 5445881.519400953.
+        This group has 960 participants
+Group 3% will receive: 5267.593731563422 each, hence total reserved for this group is: 5689001.230088496.
+        This group has 1080 participants
+Group 2% will receive: 4862.394213750851 each, hence total reserved for this group is: 5251385.75085092.
+        This group has 1080 participants
+Group 1% will receive: 4457.19469593828 each, hence total reserved for this group is: 6953223.725663717.
+        This group has 1560 participants
+Group 0% will receive: 4051.995178125709 each, hence total reserved for this group is: 4862394.213750851.
+        This group has 1200 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 16 0
+Each participant gets: 3952.444167773351 (excluding bonus based on ddss)
+Total to distribute: 47429330.01328021 (excluding bonus based on ddss)
+Total remaining for bonuses: 23999240.986719787
+
+Group 10% will receive: 7904.888335546702 each, hence total reserved for this group is: 8537279.402390439.
+        This group has 1080 participants
+Group 9% will receive: 7509.643918769367 each, hence total reserved for this group is: 9011572.70252324.
+        This group has 1200 participants
+Group 8% will receive: 7114.399501992032 each, hence total reserved for this group is: 6829823.521912351.
+        This group has 960 participants
+Group 7% will receive: 6719.155085214697 each, hence total reserved for this group is: 5644090.271580345.
+        This group has 840 participants
+Group 6% will receive: 6323.910668437362 each, hence total reserved for this group is: 6070954.241699867.
+        This group has 960 participants
+Group 5% will receive: 5928.666251660026 each, hence total reserved for this group is: 11383039.20318725.
+        This group has 1920 participants
+Group 4% will receive: 5533.421834882692 each, hence total reserved for this group is: 6640106.20185923.
+        This group has 1200 participants
+Group 3% will receive: 5138.177418105357 each, hence total reserved for this group is: 4316069.0312085.
+        This group has 840 participants
+Group 2% will receive: 4742.933001328021 each, hence total reserved for this group is: 3984063.721115538.
+        This group has 840 participants
+Group 1% will receive: 4347.688584550687 each, hence total reserved for this group is: 5217226.301460824.
+        This group has 1200 participants
+Group 0% will receive: 3952.444167773351 each, hence total reserved for this group is: 3794346.4010624173.
+        This group has 960 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 20 0
+Each participant gets: 4110.760301565378 (excluding bonus based on ddss)
+Total to distribute: 49329123.61878453 (excluding bonus based on ddss)
+Total remaining for bonuses: 22099447.381215468
+
+Group 10% will receive: 8221.520603130755 each, hence total reserved for this group is: 8879242.251381217.
+        This group has 1080 participants
+Group 9% will receive: 7810.444572974217 each, hence total reserved for this group is: 8435280.138812155.
+        This group has 1080 participants
+Group 8% will receive: 7399.36854281768 each, hence total reserved for this group is: 7103393.801104972.
+        This group has 960 participants
+Group 7% will receive: 6988.292512661142 each, hence total reserved for this group is: 5870165.710635359.
+        This group has 840 participants
+Group 6% will receive: 6577.216482504605 each, hence total reserved for this group is: 5524861.845303868.
+        This group has 840 participants
+Group 5% will receive: 6166.140452348067 each, hence total reserved for this group is: 5919494.834254144.
+        This group has 960 participants
+Group 4% will receive: 5755.064422191528 each, hence total reserved for this group is: 6215469.57596685.
+        This group has 1080 participants
+Group 3% will receive: 5343.988392034991 each, hence total reserved for this group is: 5130228.856353591.
+        This group has 960 participants
+Group 2% will receive: 4932.912361878453 each, hence total reserved for this group is: 4143646.3839779007.
+        This group has 840 participants
+Group 1% will receive: 4521.8363317219155 each, hence total reserved for this group is: 4340962.878453039.
+        This group has 960 participants
+Group 0% will receive: 4110.760301565378 each, hence total reserved for this group is: 9865824.723756906.
+        This group has 2400 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 25 0
+Each participant gets: 4227.54326467803 (excluding bonus based on ddss)
+Total to distribute: 50730519.17613636 (excluding bonus based on ddss)
+Total remaining for bonuses: 20698051.82386364
+
+Group 10% will receive: 8455.08652935606 each, hence total reserved for this group is: 8116883.068181817.
+        This group has 960 participants
+Group 9% will receive: 8032.332202888257 each, hence total reserved for this group is: 6747159.050426136.
+        This group has 840 participants
+Group 8% will receive: 7609.577876420454 each, hence total reserved for this group is: 6392045.416193182.
+        This group has 840 participants
+Group 7% will receive: 7186.823549952651 each, hence total reserved for this group is: 6036931.781960227.
+        This group has 840 participants
+Group 6% will receive: 6764.069223484848 each, hence total reserved for this group is: 6493506.454545454.
+        This group has 960 participants
+Group 5% will receive: 6341.314897017045 each, hence total reserved for this group is: 6087662.301136363.
+        This group has 960 participants
+Group 4% will receive: 5918.560570549242 each, hence total reserved for this group is: 4971590.879261363.
+        This group has 840 participants
+Group 3% will receive: 5495.806244081439 each, hence total reserved for this group is: 4616477.245028409.
+        This group has 840 participants
+Group 2% will receive: 5073.051917613636 each, hence total reserved for this group is: 4261363.610795454.
+        This group has 840 participants
+Group 1% will receive: 4650.297591145833 each, hence total reserved for this group is: 5022321.3984375.
+        This group has 1080 participants
+Group 0% will receive: 4227.54326467803 each, hence total reserved for this group is: 12682629.79403409.
+        This group has 3000 participants
+
+Total distributed: 71428570.99999999 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 16 0
+Each participant gets: 3976.206357158762 (excluding bonus based on ddss)
+Total to distribute: 47714476.285905145 (excluding bonus based on ddss)
+Total remaining for bonuses: 23714094.714094855
+
+Group 10% will receive: 7952.412714317524 each, hence total reserved for this group is: 6680026.68002672.
+        This group has 840 participants
+Group 9% will receive: 7554.7920786016475 each, hence total reserved for this group is: 9065750.494321978.
+        This group has 1200 participants
+Group 8% will receive: 7157.171442885771 each, hence total reserved for this group is: 6012024.012024048.
+        This group has 840 participants
+Group 7% will receive: 6759.550807169895 each, hence total reserved for this group is: 7300314.871743486.
+        This group has 1080 participants
+Group 6% will receive: 6361.93017145402 each, hence total reserved for this group is: 6870884.585170342.
+        This group has 1080 participants
+Group 5% will receive: 5964.309535738143 each, hence total reserved for this group is: 11451474.308617234.
+        This group has 1920 participants
+Group 4% will receive: 5566.688900022266 each, hence total reserved for this group is: 6012024.012024048.
+        This group has 1080 participants
+Group 3% will receive: 5169.068264306391 each, hence total reserved for this group is: 5582593.725450902.
+        This group has 1080 participants
+Group 2% will receive: 4771.447628590514 each, hence total reserved for this group is: 4008016.0080160317.
+        This group has 840 participants
+Group 1% will receive: 4373.826992874639 each, hence total reserved for this group is: 3674014.6740146964.
+        This group has 840 participants
+Group 0% will receive: 3976.206357158762 each, hence total reserved for this group is: 4771447.628590514.
+        This group has 1200 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 16 0
+Each participant gets: 4019.163346837722 (excluding bonus based on ddss)
+Total to distribute: 48229960.16205267 (excluding bonus based on ddss)
+Total remaining for bonuses: 23198610.83794733
+
+Group 10% will receive: 8038.326693675444 each, hence total reserved for this group is: 8681392.82916948.
+        This group has 1080 participants
+Group 9% will receive: 7636.410358991672 each, hence total reserved for this group is: 8247323.187711006.
+        This group has 1080 participants
+Group 8% will receive: 7234.4940243079 each, hence total reserved for this group is: 6945114.263335584.
+        This group has 960 participants
+Group 7% will receive: 6832.577689624128 each, hence total reserved for this group is: 6559274.5820391625.
+        This group has 960 participants
+Group 6% will receive: 6430.6613549403555 each, hence total reserved for this group is: 5401755.538149899.
+        This group has 840 participants
+Group 5% will receive: 6028.745020256583 each, hence total reserved for this group is: 7234494.0243079.
+        This group has 1200 participants
+Group 4% will receive: 5626.828685572811 each, hence total reserved for this group is: 5401755.538149899.
+        This group has 960 participants
+Group 3% will receive: 5224.912350889039 each, hence total reserved for this group is: 5015915.856853478.
+        This group has 960 participants
+Group 2% will receive: 4822.996016205267 each, hence total reserved for this group is: 9260152.351114113.
+        This group has 1920 participants
+Group 1% will receive: 4421.079681521494 each, hence total reserved for this group is: 5305295.617825793.
+        This group has 1200 participants
+Group 0% will receive: 4019.163346837722 each, hence total reserved for this group is: 3376097.2113436866.
+        This group has 840 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+
+
+
+Total registered 12000
+
+!! 11 0
+Each participant gets: 4054.755392824705 (excluding bonus based on ddss)
+Total to distribute: 48657064.71389646 (excluding bonus based on ddss)
+Total remaining for bonuses: 22771506.28610354
+
+Group 100% will receive: 8109.51078564941 each, hence total reserved for this group is: 7785130.354223433.
+        This group has 960 participants
+Group 90% will receive: 7704.035246366939 each, hence total reserved for this group is: 7395873.836512261.
+        This group has 960 participants
+Group 80% will receive: 7298.559707084469 each, hence total reserved for this group is: 7006617.31880109.
+        This group has 960 participants
+Group 70% will receive: 6893.084167801998 each, hence total reserved for this group is: 6617360.801089918.
+        This group has 960 participants
+Group 60% will receive: 6487.608628519528 each, hence total reserved for this group is: 6228104.283378746.
+        This group has 960 participants
+Group 50% will receive: 6082.133089237057 each, hence total reserved for this group is: 6568703.736376022.
+        This group has 1080 participants
+Group 40% will receive: 5676.657549954586 each, hence total reserved for this group is: 6811989.059945503.
+        This group has 1200 participants
+Group 30% will receive: 5271.182010672116 each, hence total reserved for this group is: 6957960.254087193.
+        This group has 1320 participants
+Group 20% will receive: 4865.706471389645 each, hence total reserved for this group is: 5838847.7656675745.
+        This group has 1200 participants
+Group 10% will receive: 4460.230932107175 each, hence total reserved for this group is: 5352277.11852861.
+        This group has 1200 participants
+Group 0% will receive: 4054.755392824705 each, hence total reserved for this group is: 4865706.471389646.
+        This group has 1200 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 21 0
+Each participant gets: 4076.9732305936072 (excluding bonus based on ddss)
+Total to distribute: 48923678.76712329 (excluding bonus based on ddss)
+Total remaining for bonuses: 22504892.23287671
+
+Group 100% will receive: 8153.9464611872145 each, hence total reserved for this group is: 6849315.02739726.
+        This group has 840 participants
+Group 90% will receive: 7746.249138127853 each, hence total reserved for this group is: 6506849.276027396.
+        This group has 840 participants
+Group 80% will receive: 7338.551815068493 each, hence total reserved for this group is: 6164383.524657534.
+        This group has 840 participants
+Group 70% will receive: 6930.854492009132 each, hence total reserved for this group is: 7485322.851369862.
+        This group has 1080 participants
+Group 60% will receive: 6523.157168949772 each, hence total reserved for this group is: 5479452.021917809.
+        This group has 840 participants
+Group 50% will receive: 6115.459845890411 each, hence total reserved for this group is: 5870841.452054795.
+        This group has 960 participants
+Group 40% will receive: 5707.76252283105 each, hence total reserved for this group is: 6164383.5246575335.
+        This group has 1080 participants
+Group 30% will receive: 5300.06519977169 each, hence total reserved for this group is: 13356164.303424658.
+        This group has 2520 participants
+Group 20% will receive: 4892.367876712328 each, hence total reserved for this group is: 5283757.306849315.
+        This group has 1080 participants
+Group 10% will receive: 4484.670553652968 each, hence total reserved for this group is: 4843444.1979452055.
+        This group has 1080 participants
+Group 0% will receive: 4076.9732305936072 each, hence total reserved for this group is: 3424657.51369863.
+        This group has 840 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 17 0
+Each participant gets: 3949.8214443707143 (excluding bonus based on ddss)
+Total to distribute: 47397857.33244857 (excluding bonus based on ddss)
+Total remaining for bonuses: 24030713.667551428
+
+Group 100% will receive: 7899.642888741429 each, hence total reserved for this group is: 7583657.173191772.
+        This group has 960 participants
+Group 90% will receive: 7504.660744304357 each, hence total reserved for this group is: 9005592.893165229.
+        This group has 1200 participants
+Group 80% will receive: 7109.678599867286 each, hence total reserved for this group is: 6825291.455872594.
+        This group has 960 participants
+Group 70% will receive: 6714.696455430214 each, hence total reserved for this group is: 5640345.02256138.
+        This group has 840 participants
+Group 60% will receive: 6319.714310993143 each, hence total reserved for this group is: 6066925.738553417.
+        This group has 960 participants
+Group 50% will receive: 5924.732166556071 each, hence total reserved for this group is: 12086453.619774384.
+        This group has 2040 participants
+Group 40% will receive: 5529.750022118999 each, hence total reserved for this group is: 6635700.0265428.
+        This group has 1200 participants
+Group 30% will receive: 5134.767877681928 each, hence total reserved for this group is: 6161721.453218314.
+        This group has 1200 participants
+Group 20% will receive: 4739.785733244857 each, hence total reserved for this group is: 3981420.0159256794.
+        This group has 840 participants
+Group 10% will receive: 4344.803588807786 each, hence total reserved for this group is: 3649635.01459854.
+        This group has 840 participants
+Group 0% will receive: 3949.8214443707143 each, hence total reserved for this group is: 3791828.586595886.
+        This group has 960 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 14 0
+Each participant gets: 4057.5193705975917 (excluding bonus based on ddss)
+Total to distribute: 48690232.4471711 (excluding bonus based on ddss)
+Total remaining for bonuses: 22738338.5528289
+
+Group 100% will receive: 8115.038741195183 each, hence total reserved for this group is: 6816632.542603954.
+        This group has 840 participants
+Group 90% will receive: 7709.286804135424 each, hence total reserved for this group is: 8326029.748466258.
+        This group has 1080 participants
+Group 80% will receive: 7303.534867075665 each, hence total reserved for this group is: 7011393.472392638.
+        This group has 960 participants
+Group 70% will receive: 6897.782930015906 each, hence total reserved for this group is: 5794137.661213361.
+        This group has 840 participants
+Group 60% will receive: 6492.030992956147 each, hence total reserved for this group is: 7011393.472392639.
+        This group has 1080 participants
+Group 50% will receive: 6086.279055896388 each, hence total reserved for this group is: 5842827.893660532.
+        This group has 960 participants
+Group 40% will receive: 5680.527118836628 each, hence total reserved for this group is: 6816632.542603954.
+        This group has 1200 participants
+Group 30% will receive: 5274.775181776869 each, hence total reserved for this group is: 8861622.30538514.
+        This group has 1680 participants
+Group 20% will receive: 4869.02324471711 each, hence total reserved for this group is: 5258545.104294479.
+        This group has 1080 participants
+Group 10% will receive: 4463.271307657351 each, hence total reserved for this group is: 4820333.012269939.
+        This group has 1080 participants
+Group 0% will receive: 4057.5193705975917 each, hence total reserved for this group is: 4869023.24471711.
+        This group has 1200 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 17 0
+Each participant gets: 3882.831648184388 (excluding bonus based on ddss)
+Total to distribute: 46593979.77821266 (excluding bonus based on ddss)
+Total remaining for bonuses: 24834591.22178734
+
+Group 100% will receive: 7765.663296368776 each, hence total reserved for this group is: 15841953.124592304.
+        This group has 2040 participants
+Group 90% will receive: 7377.380131550337 each, hence total reserved for this group is: 6196999.310502283.
+        This group has 840 participants
+Group 80% will receive: 6989.096966731899 each, hence total reserved for this group is: 8386916.360078278.
+        This group has 1200 participants
+Group 70% will receive: 6600.813801913459 each, hence total reserved for this group is: 5544683.593607306.
+        This group has 840 participants
+Group 60% will receive: 6212.530637095021 each, hence total reserved for this group is: 5218525.735159818.
+        This group has 840 participants
+Group 50% will receive: 5824.247472276582 each, hence total reserved for this group is: 4892367.876712329.
+        This group has 840 participants
+Group 40% will receive: 5435.964307458143 each, hence total reserved for this group is: 5870841.452054794.
+        This group has 1080 participants
+Group 30% will receive: 5047.681142639704 each, hence total reserved for this group is: 6057217.371167645.
+        This group has 1200 participants
+Group 20% will receive: 4659.397977821265 each, hence total reserved for this group is: 5032149.816046966.
+        This group has 1080 participants
+Group 10% will receive: 4271.114813002827 each, hence total reserved for this group is: 5125337.775603392.
+        This group has 1200 participants
+Group 0% will receive: 3882.831648184388 each, hence total reserved for this group is: 3261578.584474886.
+        This group has 840 participants
+
+Total distributed: 71428571.00000001 (out of 71428571)
+Total participants: 12000 (out of 12000)
+Total registered 12000
+
+!! 13 0
+Each participant gets: 4008.337317620651 (excluding bonus based on ddss)
+Total to distribute: 48100047.811447814 (excluding bonus based on ddss)
+Total remaining for bonuses: 23328523.188552186
+
+Group 100% will receive: 8016.674635241302 each, hence total reserved for this group is: 9620009.562289562.
+        This group has 1200 participants
+Group 90% will receive: 7615.840903479237 each, hence total reserved for this group is: 7311207.267340067.
+        This group has 960 participants
+Group 80% will receive: 7215.007171717172 each, hence total reserved for this group is: 6060606.024242424.
+        This group has 840 participants
+Group 70% will receive: 6814.173439955107 each, hence total reserved for this group is: 6541606.502356903.
+        This group has 960 participants
+Group 60% will receive: 6413.339708193042 each, hence total reserved for this group is: 5387205.354882155.
+        This group has 840 participants
+Group 50% will receive: 6012.505976430976 each, hence total reserved for this group is: 7215007.171717172.
+        This group has 1200 participants
+Group 40% will receive: 5611.672244668911 each, hence total reserved for this group is: 8754208.7016835.
+        This group has 1560 participants
+Group 30% will receive: 5210.8385129068465 each, hence total reserved for this group is: 5627705.593939395.
+        This group has 1080 participants
+Group 20% will receive: 4810.004781144781 each, hence total reserved for this group is: 5772005.737373738.
+        This group has 1200 participants
+Group 10% will receive: 4409.171049382717 each, hence total reserved for this group is: 5291005.25925926.
+        This group has 1200 participants
+Group 0% will receive: 4008.337317620651 each, hence total reserved for this group is: 3848003.824915825.
+        This group has 960 participants
+
+Total distributed: 71428571 (out of 71428571)
+Total participants: 12000 (out of 12000)
